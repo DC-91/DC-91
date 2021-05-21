@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DC-91 (Darryl Castelino)
-- 👀 I’m interested in data science
+- 👋 Hi, I’m @Darryl Castelino
+- 👀 I’m interested in data science/data management
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data science for foundation engineering
+- 💞️ I’m looking to collaborate on data management for foundation engineering
 - 📫 You can reach me on darrylcastelino@yahoo.com
 
 <!---
